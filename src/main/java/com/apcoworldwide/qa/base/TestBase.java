@@ -75,11 +75,6 @@ public class TestBase {
 		}
 		else
 		{
-			ChromeOptions options = new ChromeOptions();
-			options.addArguments("--no-sandbox");
-
-			System.setProperty("webdriver.chrome.driver", "C:\\Users\\TaSoSsS\\Downloads\\chromedriver_win32\\chromedriver.exe");		
-			driver = new ChromeDriver(options); 
 			System.out.println("Please check again the browser name at config.properties file");
 		}
 		
