@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="com.apcoworldwide.qa.reporter.ExtentReportListener"/>
+  </listeners>
+  <test thread-count="5" name="Apco-Worldwide(failed)">
+    <classes>
+      <class name="com.apcoworldwide.qa.testcases.WorkPageTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="verifySelectedServiceAtEveryRefreshTest"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.apcoworldwide.qa.testcases.WorkPageTest -->
+      <class name="com.apcoworldwide.qa.testcases.PeoplePageTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="LeadershipLinkClickTest"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.apcoworldwide.qa.testcases.PeoplePageTest -->
+      <class name="com.apcoworldwide.qa.testcases.TermsAndConPageTest">
+        <methods>
+          <include name="verifytermsAndConPageTitleTest"/>
+          <include name="tearDown"/>
+          <include name="verifyLogoTest"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.apcoworldwide.qa.testcases.TermsAndConPageTest -->
+      <class name="com.apcoworldwide.qa.testcases.LeadershipPageTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="verifyBreadcrumbsLeadershipPageTest"/>
+        </methods>
+      </class> <!-- com.apcoworldwide.qa.testcases.LeadershipPageTest -->
+      <class name="com.apcoworldwide.qa.testcases.HomePageTest">
+        <methods>
+          <include name="AboutSubMenuNewsDownTest"/>
+          <include name="tearDown"/>
+          <include name="AboutSubMenuLeadershipDownTest"/>
+          <include name="ClickOnBlogDownTest"/>
+          <include name="PrivacyPolicyTest"/>
+          <include name="ClickOnWorkDownTest"/>
+          <include name="verifyTopLogoAtScrollTest"/>
+          <include name="AboutSubMenuCareersDownTest"/>
+          <include name="ClientsPictureCompareTest"/>
+          <include name="ClickOnContactDownTest"/>
+          <include name="ClickOnAboutDownTest"/>
+          <include name="verifyLogoScrollTest"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.apcoworldwide.qa.testcases.HomePageTest -->
+    </classes>
+  </test> <!-- Apco-Worldwide(failed) -->
+</suite> <!-- Failed suite [Suite] -->

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="tests">
+<listeners>
+	<listener class-name="com.apcoworldwide.qa.reporter.ExtentReportListener"/>
+</listeners>
+
+   <test name="Apco-Worldwide-Chrome">
+    <classes>
+      <class name="com.apcoworldwide.qa.testcases.ContactPageTest"/>
+      <class name="com.apcoworldwide.qa.testcases.LeadershipPageTest"/>
+      <class name="com.apcoworldwide.qa.testcases.PeoplePageTest"/>
+      <class name="com.apcoworldwide.qa.testcases.AboutPageTest"/>
+      <class name="com.apcoworldwide.qa.testcases.BlogPageTest"/>
+      <class name="com.apcoworldwide.qa.testcases.WorkPageTest"/>
+      <class name="com.apcoworldwide.qa.testcases.InternAdvTest"/>
+      <class name="com.apcoworldwide.qa.testcases.TermsAndConPageTest"/>
+      <class name="com.apcoworldwide.qa.testcases.HomePageTest"/>
+      <class name="com.apcoworldwide.qa.testcases.PrivacyPolicyPageTest"/>
+      <class name="com.apcoworldwide.qa.testcases.NewsPageTest"/>
+    </classes>
+  </test> <!-- Test -->
+ <!-- <test name="Apco-Worldwide-Firefox">
+   <parameter name="browser" value="ff" />
+    <classes>
+      <class name="com.apcoworldwide.qa.testcases.ContactPageTest"/>
+      <class name="com.apcoworldwide.qa.testcases.LeadershipPageTest"/>
+      <class name="com.apcoworldwide.qa.testcases.PeoplePageTest"/>
+      <class name="com.apcoworldwide.qa.testcases.AboutPageTest"/>
+      <class name="com.apcoworldwide.qa.testcases.BlogPageTest"/>
+      <class name="com.apcoworldwide.qa.testcases.WorkPageTest"/>
+      <class name="com.apcoworldwide.qa.testcases.InternAdvTest"/>
+      <class name="com.apcoworldwide.qa.testcases.TermsAndConPageTest"/>
+      <class name="com.apcoworldwide.qa.testcases.HomePageTest"/>
+      <class name="com.apcoworldwide.qa.testcases.PrivacyPolicyPageTest"/>
+      <class name="com.apcoworldwide.qa.testcases.NewsPageTest"/>
+    </classes>
+  </test> 
+  <test name="Apco-Worldwide-Edge">
+   <parameter name="browser" value="edge" />
+    <classes>
+      <class name="com.apcoworldwide.qa.testcases.ContactPageTest"/>
+      <class name="com.apcoworldwide.qa.testcases.LeadershipPageTest"/>
+      <class name="com.apcoworldwide.qa.testcases.PeoplePageTest"/>
+      <class name="com.apcoworldwide.qa.testcases.AboutPageTest"/>
+      <class name="com.apcoworldwide.qa.testcases.BlogPageTest"/>
+      <class name="com.apcoworldwide.qa.testcases.WorkPageTest"/>
+      <class name="com.apcoworldwide.qa.testcases.InternAdvTest"/>
+      <class name="com.apcoworldwide.qa.testcases.TermsAndConPageTest"/>
+      <class name="com.apcoworldwide.qa.testcases.HomePageTest"/>
+      <class name="com.apcoworldwide.qa.testcases.PrivacyPolicyPageTest"/>
+      <class name="com.apcoworldwide.qa.testcases.NewsPageTest"/>
+    </classes>
+  </test> 
+  <test name="Apco-Worldwide-Explorer">
+   <parameter name="browser" value="explorer" />
+    <classes>
+      <class name="com.apcoworldwide.qa.testcases.ContactPageTest"/>
+      <class name="com.apcoworldwide.qa.testcases.LeadershipPageTest"/>
+      <class name="com.apcoworldwide.qa.testcases.PeoplePageTest"/>
+      <class name="com.apcoworldwide.qa.testcases.AboutPageTest"/>
+      <class name="com.apcoworldwide.qa.testcases.BlogPageTest"/>
+      <class name="com.apcoworldwide.qa.testcases.WorkPageTest"/>
+      <class name="com.apcoworldwide.qa.testcases.InternAdvTest"/>
+      <class name="com.apcoworldwide.qa.testcases.TermsAndConPageTest"/>
+      <class name="com.apcoworldwide.qa.testcases.HomePageTest"/>
+      <class name="com.apcoworldwide.qa.testcases.PrivacyPolicyPageTest"/>
+      <class name="com.apcoworldwide.qa.testcases.NewsPageTest"/>
+    </classes>
+  </test>  -->
+</suite> <!-- Suite -->

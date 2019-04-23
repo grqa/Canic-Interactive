@@ -1,0 +1,384 @@
+16:47:06.884 [main] INFO  com.apcoworldwide.qa.base.TestBase - Trying to click on: [[ChromeDriver: chrome on XP (2298ef6c40fabf281573f4147ce487f1)] -> xpath: //a[@id='cookie_action_close_header']]
+16:47:07.525 [main] INFO  com.apcoworldwide.qa.base.TestBase - Clicked on: [[ChromeDriver: chrome on XP (2298ef6c40fabf281573f4147ce487f1)] -> xpath: //a[@id='cookie_action_close_header']]
+16:47:42.645 [main] ERROR com.apcoworldwide.qa.base.TestBase - On each refresh the default expanded box at 'Driven by our values' is the same
+16:49:02.488 [main] INFO  com.apcoworldwide.qa.base.TestBase - Trying to click on: [[ChromeDriver: chrome on XP (fc799e3b9d03eb07dd029c3f70617579)] -> xpath: //a[@id='cookie_action_close_header']]
+16:49:02.924 [main] INFO  com.apcoworldwide.qa.base.TestBase - Clicked on: [[ChromeDriver: chrome on XP (fc799e3b9d03eb07dd029c3f70617579)] -> xpath: //a[@id='cookie_action_close_header']]
+16:49:05.497 [main] INFO  com.apcoworldwide.qa.base.TestBase - Trying to click on: [[ChromeDriver: chrome on XP (fc799e3b9d03eb07dd029c3f70617579)] -> xpath: //*[@id='our-values']/div[2]/div]
+16:49:08.957 [main] INFO  com.apcoworldwide.qa.base.TestBase - Clicked on: [[ChromeDriver: chrome on XP (fc799e3b9d03eb07dd029c3f70617579)] -> xpath: //*[@id='our-values']/div[2]/div]
+16:49:11.007 [main] INFO  com.apcoworldwide.qa.base.TestBase - The box with the text BOLDNESS
+We push boundaries and produce better ideas to solve the really challenging problems of our time opened
+16:49:11.185 [main] INFO  com.apcoworldwide.qa.base.TestBase - Trying to click on: [[ChromeDriver: chrome on XP (fc799e3b9d03eb07dd029c3f70617579)] -> xpath: //*[@id='our-values']/div[2]/div]
+16:49:12.377 [main] INFO  com.apcoworldwide.qa.base.TestBase - Clicked on: [[ChromeDriver: chrome on XP (fc799e3b9d03eb07dd029c3f70617579)] -> xpath: //*[@id='our-values']/div[2]/div]
+16:49:13.884 [main] INFO  com.apcoworldwide.qa.base.TestBase - The box with the text CURIOSITY
+We hunger for learning and improvement in all we do, keeping us at the cutting edge opened
+16:49:14.061 [main] INFO  com.apcoworldwide.qa.base.TestBase - Trying to click on: [[ChromeDriver: chrome on XP (fc799e3b9d03eb07dd029c3f70617579)] -> xpath: //*[@id='our-values']/div[2]/div]
+16:49:14.968 [main] INFO  com.apcoworldwide.qa.base.TestBase - Clicked on: [[ChromeDriver: chrome on XP (fc799e3b9d03eb07dd029c3f70617579)] -> xpath: //*[@id='our-values']/div[2]/div]
+16:49:16.484 [main] INFO  com.apcoworldwide.qa.base.TestBase - The box with the text INCLUSIVITY
+Our culture embraces diversity of people, thoughts and experiences opened
+16:49:16.560 [main] INFO  com.apcoworldwide.qa.base.TestBase - Trying to click on: [[ChromeDriver: chrome on XP (fc799e3b9d03eb07dd029c3f70617579)] -> xpath: //*[@id='our-values']/div[2]/div]
+16:49:17.265 [main] INFO  com.apcoworldwide.qa.base.TestBase - Clicked on: [[ChromeDriver: chrome on XP (fc799e3b9d03eb07dd029c3f70617579)] -> xpath: //*[@id='our-values']/div[2]/div]
+16:49:18.760 [main] INFO  com.apcoworldwide.qa.base.TestBase - The box with the text EMPATHY
+We seek to embrace and incorporate different customs and approaches, and to understand the perspectives of others opened
+16:49:18.760 [main] INFO  com.apcoworldwide.qa.base.TestBase - All the boxes at 'Driven by our values' expand slightly when you click on them
+16:53:07.034 [main] INFO  com.apcoworldwide.qa.base.TestBase - Trying to click on: [[ChromeDriver: chrome on XP (fe5f5d41a7b24ae59cd7a125dc105edd)] -> xpath: //a[@id='cookie_action_close_header']]
+16:53:07.807 [main] INFO  com.apcoworldwide.qa.base.TestBase - Clicked on: [[ChromeDriver: chrome on XP (fe5f5d41a7b24ae59cd7a125dc105edd)] -> xpath: //a[@id='cookie_action_close_header']]
+16:53:09.611 [main] INFO  com.apcoworldwide.qa.base.TestBase - Trying to click on: [[ChromeDriver: chrome on XP (fe5f5d41a7b24ae59cd7a125dc105edd)] -> xpath: //*[@id='our-values']/div[2]/div]
+16:53:11.117 [main] INFO  com.apcoworldwide.qa.base.TestBase - Clicked on: [[ChromeDriver: chrome on XP (fe5f5d41a7b24ae59cd7a125dc105edd)] -> xpath: //*[@id='our-values']/div[2]/div]
+16:53:12.506 [main] INFO  com.apcoworldwide.qa.base.TestBase - The box with the text BOLDNESS
+We push boundaries and produce better ideas to solve the really challenging problems of our time opened
+16:53:12.640 [main] INFO  com.apcoworldwide.qa.base.TestBase - Trying to click on: [[ChromeDriver: chrome on XP (fe5f5d41a7b24ae59cd7a125dc105edd)] -> xpath: //*[@id='our-values']/div[2]/div]
+16:53:13.883 [main] INFO  com.apcoworldwide.qa.base.TestBase - Clicked on: [[ChromeDriver: chrome on XP (fe5f5d41a7b24ae59cd7a125dc105edd)] -> xpath: //*[@id='our-values']/div[2]/div]
+16:53:15.329 [main] INFO  com.apcoworldwide.qa.base.TestBase - The box with the text CURIOSITY
+We hunger for learning and improvement in all we do, keeping us at the cutting edge opened
+16:53:15.468 [main] INFO  com.apcoworldwide.qa.base.TestBase - Trying to click on: [[ChromeDriver: chrome on XP (fe5f5d41a7b24ae59cd7a125dc105edd)] -> xpath: //*[@id='our-values']/div[2]/div]
+16:53:16.972 [main] INFO  com.apcoworldwide.qa.base.TestBase - Clicked on: [[ChromeDriver: chrome on XP (fe5f5d41a7b24ae59cd7a125dc105edd)] -> xpath: //*[@id='our-values']/div[2]/div]
+16:53:18.585 [main] INFO  com.apcoworldwide.qa.base.TestBase - The box with the text INCLUSIVITY
+Our culture embraces diversity of people, thoughts and experiences opened
+16:53:18.713 [main] INFO  com.apcoworldwide.qa.base.TestBase - Trying to click on: [[ChromeDriver: chrome on XP (fe5f5d41a7b24ae59cd7a125dc105edd)] -> xpath: //*[@id='our-values']/div[2]/div]
+16:53:19.619 [main] INFO  com.apcoworldwide.qa.base.TestBase - Clicked on: [[ChromeDriver: chrome on XP (fe5f5d41a7b24ae59cd7a125dc105edd)] -> xpath: //*[@id='our-values']/div[2]/div]
+16:53:21.201 [main] INFO  com.apcoworldwide.qa.base.TestBase - The box with the text EMPATHY
+We seek to embrace and incorporate different customs and approaches, and to understand the perspectives of others opened
+16:53:21.202 [main] INFO  com.apcoworldwide.qa.base.TestBase - All the boxes at 'Driven by our values' expand slightly when you click on them
+17:02:47.112 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - <----Test suite for Apco-Worldwide is Started---->
+17:03:26.079 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Trying to click on: [[ChromeDriver: chrome on XP (9b28421f48a085b76cb581a3542be69f)] -> xpath: //a[@id='cookie_action_close_header']]
+17:03:26.903 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Clicked on: [[ChromeDriver: chrome on XP (9b28421f48a085b76cb581a3542be69f)] -> xpath: //a[@id='cookie_action_close_header']]
+17:03:27.297 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Trying to click on: [[ChromeDriver: chrome on XP (9b28421f48a085b76cb581a3542be69f)] -> id: menu-item-65]
+17:03:42.577 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Clicked on: [[ChromeDriver: chrome on XP (9b28421f48a085b76cb581a3542be69f)] -> id: menu-item-65]
+17:03:43.541 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - <----linkListTest  is Started---->
+17:03:46.112 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - The page https://apcoworldwide.com/contact/ has 79 links
+17:04:36.139 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - <----Test suite for Apco-Worldwide is Started---->
+17:05:33.918 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Trying to click on: [[ChromeDriver: chrome on XP (b359cc3fdedd1f4aff5679120e2020d2)] -> xpath: //a[@id='cookie_action_close_header']]
+17:05:34.893 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Clicked on: [[ChromeDriver: chrome on XP (b359cc3fdedd1f4aff5679120e2020d2)] -> xpath: //a[@id='cookie_action_close_header']]
+17:05:35.418 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Trying to click on: [[ChromeDriver: chrome on XP (b359cc3fdedd1f4aff5679120e2020d2)] -> id: menu-item-65]
+17:06:04.417 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Clicked on: [[ChromeDriver: chrome on XP (b359cc3fdedd1f4aff5679120e2020d2)] -> id: menu-item-65]
+17:06:05.425 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - <----linkListTest  is Started---->
+17:06:07.965 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - The page https://apcoworldwide.com/contact/ has 79 links
+17:07:04.012 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - <----linkListTest  was Passed---->
+17:08:20.319 [TestNG-tests-1] ERROR com.apcoworldwide.qa.base.TestBase - Exception occured: org.openqa.selenium.TimeoutException: timeout
+  (Session info: chrome=73.0.3683.103)
+  (Driver info: chromedriver=73.0.3683.68 (47787ec04b6e38e22703e856e101e840b65afe72),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TASOSSS-PC', ip: '192.168.10.80', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 73.0.3683.68 (47787ec04b6e3..., userDataDir: C:\Users\TaSoSsS\AppData\Lo...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:58781}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.103, webStorageEnabled: true}
+Session ID: 826787bc17e9b97d14adfdf9c0842833
+17:08:26.599 [TestNG-tests-1] WARN  com.apcoworldwide.qa.base.TestBase - <----verifyContactPageTitleTest  was Skipped---->
+17:08:31.444 [TestNG-tests-1] WARN  com.apcoworldwide.qa.base.TestBase - <----verifyLogoTest  was Skipped---->
+17:08:36.063 [TestNG-tests-1] ERROR com.apcoworldwide.qa.base.TestBase - Exception occured: org.openqa.selenium.UnsupportedCommandException: actions
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TASOSSS-PC', ip: '192.168.10.80', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: driver.version: EventFiringWebDriver
+17:08:39.745 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Trying to click on: [[ChromeDriver: chrome on XP (826787bc17e9b97d14adfdf9c0842833)] -> id: menu-item-4749]
+17:08:47.828 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Clicked on: [[ChromeDriver: chrome on XP (826787bc17e9b97d14adfdf9c0842833)] -> id: menu-item-4749]
+17:08:47.850 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - <----linkListTest  is Started---->
+17:08:48.192 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - The page https://apcoworldwide.com/about/people/leadership/ has 71 links
+17:09:27.071 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - <----linkListTest  was Passed---->
+17:10:13.610 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Trying to click on: [[ChromeDriver: chrome on XP (a6352e5574c4b9fe04c805b7c4a82d01)] -> xpath: //a[@id='cookie_action_close_header']]
+17:10:14.462 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Clicked on: [[ChromeDriver: chrome on XP (a6352e5574c4b9fe04c805b7c4a82d01)] -> xpath: //a[@id='cookie_action_close_header']]
+17:10:14.473 [TestNG-tests-1] ERROR com.apcoworldwide.qa.base.TestBase - Exception occured: org.openqa.selenium.UnsupportedCommandException: actions
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TASOSSS-PC', ip: '192.168.10.80', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: driver.version: EventFiringWebDriver
+17:10:18.203 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Trying to click on: [[ChromeDriver: chrome on XP (a6352e5574c4b9fe04c805b7c4a82d01)] -> id: menu-item-4749]
+17:10:26.099 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Clicked on: [[ChromeDriver: chrome on XP (a6352e5574c4b9fe04c805b7c4a82d01)] -> id: menu-item-4749]
+17:10:26.113 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - <----verifyBreadcrumbsLeadershipPageTest  is Started---->
+17:11:26.270 [TestNG-tests-1] ERROR com.apcoworldwide.qa.base.TestBase - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='breadcrumbs']"}
+  (Session info: chrome=73.0.3683.103)
+  (Driver info: chromedriver=73.0.3683.68 (47787ec04b6e38e22703e856e101e840b65afe72),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TASOSSS-PC', ip: '192.168.10.80', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 73.0.3683.68 (47787ec04b6e3..., userDataDir: C:\Users\TaSoSsS\AppData\Lo...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:59083}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.103, webStorageEnabled: true}
+Session ID: a6352e5574c4b9fe04c805b7c4a82d01
+*** Element info: {Using=xpath, value=//div[@class='breadcrumbs']}
+17:11:26.966 [TestNG-tests-1] ERROR com.apcoworldwide.qa.base.TestBase - <----verifyBreadcrumbsLeadershipPageTest  was Failed---->
+17:12:41.745 [TestNG-tests-1] ERROR com.apcoworldwide.qa.base.TestBase - Exception occured: org.openqa.selenium.TimeoutException: timeout
+  (Session info: chrome=73.0.3683.103)
+  (Driver info: chromedriver=73.0.3683.68 (47787ec04b6e38e22703e856e101e840b65afe72),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TASOSSS-PC', ip: '192.168.10.80', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 73.0.3683.68 (47787ec04b6e3..., userDataDir: C:\Users\TaSoSsS\AppData\Lo...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:59311}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.103, webStorageEnabled: true}
+Session ID: 62de1f3d2e35970b7fb9068fb6e06582
+17:12:51.165 [TestNG-tests-1] WARN  com.apcoworldwide.qa.base.TestBase - <----verifyLeadershipPageTitleTest  was Skipped---->
+17:12:56.225 [TestNG-tests-1] WARN  com.apcoworldwide.qa.base.TestBase - <----verifyLogoTest  was Skipped---->
+17:13:01.286 [TestNG-tests-1] ERROR com.apcoworldwide.qa.base.TestBase - Exception occured: org.openqa.selenium.UnsupportedCommandException: actions
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TASOSSS-PC', ip: '192.168.10.80', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: driver.version: EventFiringWebDriver
+17:13:08.081 [TestNG-tests-1] ERROR com.apcoworldwide.qa.base.TestBase - Exception occured: org.openqa.selenium.UnsupportedCommandException: actions
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TASOSSS-PC', ip: '192.168.10.80', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: driver.version: EventFiringWebDriver
+17:13:13.233 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Trying to click on: [[ChromeDriver: chrome on XP (62de1f3d2e35970b7fb9068fb6e06582)] -> id: menu-item-4779]
+17:13:30.936 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Clicked on: [[ChromeDriver: chrome on XP (62de1f3d2e35970b7fb9068fb6e06582)] -> id: menu-item-4779]
+17:13:31.023 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Trying to click on: [[ChromeDriver: chrome on XP (62de1f3d2e35970b7fb9068fb6e06582)] -> xpath: //a[@title='Go to People.']]
+17:13:39.740 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Clicked on: [[ChromeDriver: chrome on XP (62de1f3d2e35970b7fb9068fb6e06582)] -> xpath: //a[@title='Go to People.']]
+17:13:39.759 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - <----LeadershipLinkClickTest  is Started---->
+17:13:39.924 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Trying to click on: [[ChromeDriver: chrome on XP (62de1f3d2e35970b7fb9068fb6e06582)] -> xpath: //*[@class='container']/div/div/div//a[contains(@href,'leadership')]]
+17:13:41.114 [TestNG-tests-1] ERROR com.apcoworldwide.qa.base.TestBase - Exception occured: org.openqa.selenium.WebDriverException: unknown error: Element <a href="http://apcoworldwide.com/leadership/" style="background: yellow; border: 2px solid red;">...</a> is not clickable at point (362, 598). Other element would receive the click: <div id="cookie-law-info-bar" style="background-color: rgb(255, 255, 255); color: rgb(65, 65, 65); font-family: inherit; bottom: 0px; position: fixed; display: block;">...</div>
+  (Session info: chrome=73.0.3683.103)
+  (Driver info: chromedriver=73.0.3683.68 (47787ec04b6e38e22703e856e101e840b65afe72),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TASOSSS-PC', ip: '192.168.10.80', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 73.0.3683.68 (47787ec04b6e3..., userDataDir: C:\Users\TaSoSsS\AppData\Lo...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:59311}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.103, webStorageEnabled: true}
+Session ID: 62de1f3d2e35970b7fb9068fb6e06582
+17:13:44.321 [TestNG-tests-1] ERROR com.apcoworldwide.qa.base.TestBase - <----LeadershipLinkClickTest  was Failed---->
+17:14:40.604 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Trying to click on: [[ChromeDriver: chrome on XP (e030b8e6ee1197cc36cb40f3bcb3a313)] -> xpath: //a[@id='cookie_action_close_header']]
+17:14:41.340 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Clicked on: [[ChromeDriver: chrome on XP (e030b8e6ee1197cc36cb40f3bcb3a313)] -> xpath: //a[@id='cookie_action_close_header']]
+17:14:41.345 [TestNG-tests-1] ERROR com.apcoworldwide.qa.base.TestBase - Exception occured: org.openqa.selenium.UnsupportedCommandException: actions
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TASOSSS-PC', ip: '192.168.10.80', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: driver.version: EventFiringWebDriver
+17:14:44.946 [TestNG-tests-1] ERROR com.apcoworldwide.qa.base.TestBase - Exception occured: org.openqa.selenium.UnsupportedCommandException: actions
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TASOSSS-PC', ip: '192.168.10.80', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: driver.version: EventFiringWebDriver
+17:14:49.029 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Trying to click on: [[ChromeDriver: chrome on XP (e030b8e6ee1197cc36cb40f3bcb3a313)] -> id: menu-item-4779]
+17:14:49.932 [TestNG-tests-1] ERROR com.apcoworldwide.qa.base.TestBase - Exception occured: org.openqa.selenium.WebDriverException: unknown error: Element <li id="menu-item-4779" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4779" style="background: yellow; border: 2px solid red;">...</li> is not clickable at point (896, 220). Other element would receive the click: <div class="container">...</div>
+  (Session info: chrome=73.0.3683.103)
+  (Driver info: chromedriver=73.0.3683.68 (47787ec04b6e38e22703e856e101e840b65afe72),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TASOSSS-PC', ip: '192.168.10.80', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 73.0.3683.68 (47787ec04b6e3..., userDataDir: C:\Users\TaSoSsS\AppData\Lo...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:59561}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.103, webStorageEnabled: true}
+Session ID: e030b8e6ee1197cc36cb40f3bcb3a313
+17:14:59.721 [TestNG-tests-1] WARN  com.apcoworldwide.qa.base.TestBase - <----linkListTest  was Skipped---->
+17:15:02.428 [TestNG-tests-1] WARN  com.apcoworldwide.qa.base.TestBase - <----verifyBreadcrumbsPeoplePageTest  was Skipped---->
+17:15:05.275 [TestNG-tests-1] WARN  com.apcoworldwide.qa.base.TestBase - <----verifyLogoTest  was Skipped---->
+17:15:08.313 [TestNG-tests-1] WARN  com.apcoworldwide.qa.base.TestBase - <----verifyPeoplePageTitleTest  was Skipped---->
+17:15:11.355 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Trying to click on: [[ChromeDriver: chrome on XP (e030b8e6ee1197cc36cb40f3bcb3a313)] -> id: menu-item-63]
+17:15:27.302 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Clicked on: [[ChromeDriver: chrome on XP (e030b8e6ee1197cc36cb40f3bcb3a313)] -> id: menu-item-63]
+17:15:27.309 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - <----linkListTest  is Started---->
+17:15:27.612 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - The page https://apcoworldwide.com/about/ has 42 links
+17:15:49.005 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - <----linkListTest  was Passed---->
+17:16:51.578 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Trying to click on: [[ChromeDriver: chrome on XP (7d0980cb2c1e810165512fba5decc806)] -> xpath: //a[@id='cookie_action_close_header']]
+17:16:53.553 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Clicked on: [[ChromeDriver: chrome on XP (7d0980cb2c1e810165512fba5decc806)] -> xpath: //a[@id='cookie_action_close_header']]
+17:16:54.390 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Trying to click on: [[ChromeDriver: chrome on XP (7d0980cb2c1e810165512fba5decc806)] -> id: menu-item-63]
+17:17:18.643 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Clicked on: [[ChromeDriver: chrome on XP (7d0980cb2c1e810165512fba5decc806)] -> id: menu-item-63]
+17:17:18.655 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - <----verifyAboutPageTitleTest  is Started---->
+17:17:19.144 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - <----verifyAboutPageTitleTest  was Passed---->
+17:18:32.775 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Trying to click on: [[ChromeDriver: chrome on XP (51da590787462f4fd80146006b236904)] -> xpath: //a[@id='cookie_action_close_header']]
+17:18:35.367 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Clicked on: [[ChromeDriver: chrome on XP (51da590787462f4fd80146006b236904)] -> xpath: //a[@id='cookie_action_close_header']]
+17:18:35.665 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Trying to click on: [[ChromeDriver: chrome on XP (51da590787462f4fd80146006b236904)] -> id: menu-item-63]
+17:19:06.328 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Clicked on: [[ChromeDriver: chrome on XP (51da590787462f4fd80146006b236904)] -> id: menu-item-63]
+17:19:06.338 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - <----verifyLogoTest  is Started---->
+17:19:06.877 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - <----verifyLogoTest  was Passed---->
+17:20:08.569 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Trying to click on: [[ChromeDriver: chrome on XP (2958b7148d35c41d42874253fa42ed22)] -> xpath: //a[@id='cookie_action_close_header']]
+17:20:10.308 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Clicked on: [[ChromeDriver: chrome on XP (2958b7148d35c41d42874253fa42ed22)] -> xpath: //a[@id='cookie_action_close_header']]
+17:20:10.525 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Trying to click on: [[ChromeDriver: chrome on XP (2958b7148d35c41d42874253fa42ed22)] -> id: menu-item-64]
+17:20:28.233 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Clicked on: [[ChromeDriver: chrome on XP (2958b7148d35c41d42874253fa42ed22)] -> id: menu-item-64]
+17:20:28.380 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - <----linkListTest  is Started---->
+17:20:29.184 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - The page https://apcoworldwide.com/blog/ has 69 links
+17:21:13.466 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - <----linkListTest  was Passed---->
+17:22:01.426 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Trying to click on: [[ChromeDriver: chrome on XP (95f621ed63d0cfd8b5e271a2b1ff9ecb)] -> xpath: //a[@id='cookie_action_close_header']]
+17:22:02.872 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Clicked on: [[ChromeDriver: chrome on XP (95f621ed63d0cfd8b5e271a2b1ff9ecb)] -> xpath: //a[@id='cookie_action_close_header']]
+17:22:03.089 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Trying to click on: [[ChromeDriver: chrome on XP (95f621ed63d0cfd8b5e271a2b1ff9ecb)] -> id: menu-item-64]
+17:22:21.443 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Clicked on: [[ChromeDriver: chrome on XP (95f621ed63d0cfd8b5e271a2b1ff9ecb)] -> id: menu-item-64]
+17:22:21.449 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - <----verifyBlogPageTitleTest  is Started---->
+17:22:21.833 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - <----verifyBlogPageTitleTest  was Passed---->
+17:23:30.405 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Trying to click on: [[ChromeDriver: chrome on XP (e4c50dee5d7e23365f07af18df4f68e6)] -> xpath: //a[@id='cookie_action_close_header']]
+17:23:31.537 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Clicked on: [[ChromeDriver: chrome on XP (e4c50dee5d7e23365f07af18df4f68e6)] -> xpath: //a[@id='cookie_action_close_header']]
+17:23:31.679 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Trying to click on: [[ChromeDriver: chrome on XP (e4c50dee5d7e23365f07af18df4f68e6)] -> id: menu-item-64]
+17:23:47.933 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Clicked on: [[ChromeDriver: chrome on XP (e4c50dee5d7e23365f07af18df4f68e6)] -> id: menu-item-64]
+17:23:47.939 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - <----verifyLogoTest  is Started---->
+17:23:48.594 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - <----verifyLogoTest  was Passed---->
+17:24:27.236 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Trying to click on: [[ChromeDriver: chrome on XP (e5a725712c1766a5ce0eb67943ab31e7)] -> xpath: //a[@id='cookie_action_close_header']]
+17:24:27.510 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Clicked on: [[ChromeDriver: chrome on XP (e5a725712c1766a5ce0eb67943ab31e7)] -> xpath: //a[@id='cookie_action_close_header']]
+17:24:27.616 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Trying to click on: [[ChromeDriver: chrome on XP (e5a725712c1766a5ce0eb67943ab31e7)] -> id: menu-item-67]
+17:24:35.916 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Clicked on: [[ChromeDriver: chrome on XP (e5a725712c1766a5ce0eb67943ab31e7)] -> id: menu-item-67]
+17:24:35.922 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - <----clickOnServiceDigital  is Started---->
+17:24:36.019 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Trying to click on: [[ChromeDriver: chrome on XP (e5a725712c1766a5ce0eb67943ab31e7)] -> xpath: //ul[@class='tabs-list services-tabs']/li[11]]
+17:24:37.174 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Clicked on: [[ChromeDriver: chrome on XP (e5a725712c1766a5ce0eb67943ab31e7)] -> xpath: //ul[@class='tabs-list services-tabs']/li[11]]
+17:24:37.462 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - <----clickOnServiceDigital  was Passed---->
+17:25:13.503 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Trying to click on: [[ChromeDriver: chrome on XP (57728044541b2465a1dcea31beef51a6)] -> xpath: //a[@id='cookie_action_close_header']]
+17:25:15.275 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Clicked on: [[ChromeDriver: chrome on XP (57728044541b2465a1dcea31beef51a6)] -> xpath: //a[@id='cookie_action_close_header']]
+17:25:15.541 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Trying to click on: [[ChromeDriver: chrome on XP (57728044541b2465a1dcea31beef51a6)] -> id: menu-item-67]
+17:25:32.972 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Clicked on: [[ChromeDriver: chrome on XP (57728044541b2465a1dcea31beef51a6)] -> id: menu-item-67]
+17:25:32.982 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - <----linkListTest  is Started---->
+17:25:33.468 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - The page https://apcoworldwide.com/work/ has 88 links
+17:26:09.303 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - <----linkListTest  was Passed---->
+17:26:45.471 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Trying to click on: [[ChromeDriver: chrome on XP (ef370631280181bb9754faa057eea83b)] -> xpath: //a[@id='cookie_action_close_header']]
+17:26:46.407 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Clicked on: [[ChromeDriver: chrome on XP (ef370631280181bb9754faa057eea83b)] -> xpath: //a[@id='cookie_action_close_header']]
+17:26:46.509 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Trying to click on: [[ChromeDriver: chrome on XP (ef370631280181bb9754faa057eea83b)] -> id: menu-item-67]
+17:27:30.404 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Clicked on: [[ChromeDriver: chrome on XP (ef370631280181bb9754faa057eea83b)] -> id: menu-item-67]
+17:27:30.411 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - <----verifyLogoTest  is Started---->
+17:27:32.975 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - <----verifyLogoTest  was Passed---->
+17:28:18.114 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Trying to click on: [[ChromeDriver: chrome on XP (cd7941984a3069bbc4436aded6f4f739)] -> xpath: //a[@id='cookie_action_close_header']]
+17:28:19.856 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Clicked on: [[ChromeDriver: chrome on XP (cd7941984a3069bbc4436aded6f4f739)] -> xpath: //a[@id='cookie_action_close_header']]
+17:28:19.973 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Trying to click on: [[ChromeDriver: chrome on XP (cd7941984a3069bbc4436aded6f4f739)] -> id: menu-item-67]
+17:28:32.070 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Clicked on: [[ChromeDriver: chrome on XP (cd7941984a3069bbc4436aded6f4f739)] -> id: menu-item-67]
+17:28:32.077 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - <----verifySelectedServiceAtEveryRefreshTest  is Started---->
+17:28:32.625 [TestNG-tests-1] ERROR com.apcoworldwide.qa.base.TestBase - <----verifySelectedServiceAtEveryRefreshTest  was Failed---->
+17:29:22.017 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Trying to click on: [[ChromeDriver: chrome on XP (a991e6906f8757fb5f4ee541c3fa7d2a)] -> xpath: //a[@id='cookie_action_close_header']]
+17:29:23.040 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Clicked on: [[ChromeDriver: chrome on XP (a991e6906f8757fb5f4ee541c3fa7d2a)] -> xpath: //a[@id='cookie_action_close_header']]
+17:29:23.230 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Trying to click on: [[ChromeDriver: chrome on XP (a991e6906f8757fb5f4ee541c3fa7d2a)] -> id: menu-item-67]
+17:29:33.907 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Clicked on: [[ChromeDriver: chrome on XP (a991e6906f8757fb5f4ee541c3fa7d2a)] -> id: menu-item-67]
+17:29:33.913 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - <----verifyWorkPageTitleTest  is Started---->
+17:29:34.150 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - <----verifyWorkPageTitleTest  was Passed---->
+17:30:17.888 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Trying to click on: [[ChromeDriver: chrome on XP (1d8afc13c2c65adef8f6a23a53f8b673)] -> xpath: //a[@id='cookie_action_close_header']]
+17:30:18.577 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Clicked on: [[ChromeDriver: chrome on XP (1d8afc13c2c65adef8f6a23a53f8b673)] -> xpath: //a[@id='cookie_action_close_header']]
+17:30:18.585 [TestNG-tests-1] ERROR com.apcoworldwide.qa.base.TestBase - Exception occured: org.openqa.selenium.UnsupportedCommandException: actions
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TASOSSS-PC', ip: '192.168.10.80', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: driver.version: EventFiringWebDriver
+17:30:23.280 [TestNG-tests-1] ERROR com.apcoworldwide.qa.base.TestBase - Exception occured: org.openqa.selenium.UnsupportedCommandException: actions
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TASOSSS-PC', ip: '192.168.10.80', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: driver.version: EventFiringWebDriver
+17:30:26.903 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Trying to click on: [[ChromeDriver: chrome on XP (1d8afc13c2c65adef8f6a23a53f8b673)] -> id: menu-item-4779]
+17:31:27.110 [TestNG-tests-1] ERROR com.apcoworldwide.qa.base.TestBase - Exception occured: org.openqa.selenium.ElementNotVisibleException: element not interactable
+  (Session info: chrome=73.0.3683.103)
+  (Driver info: chromedriver=73.0.3683.68 (47787ec04b6e38e22703e856e101e840b65afe72),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TASOSSS-PC', ip: '192.168.10.80', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 73.0.3683.68 (47787ec04b6e3..., userDataDir: C:\Users\TaSoSsS\AppData\Lo...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:61883}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.103, webStorageEnabled: true}
+Session ID: 1d8afc13c2c65adef8f6a23a53f8b673
+17:31:29.971 [TestNG-tests-1] WARN  com.apcoworldwide.qa.base.TestBase - <----VerifyHoverStateTest  was Skipped---->
+17:31:32.920 [TestNG-tests-1] WARN  com.apcoworldwide.qa.base.TestBase - <----linkListTest  was Skipped---->
+17:31:36.529 [TestNG-tests-1] WARN  com.apcoworldwide.qa.base.TestBase - <----peopleBreadcrumbClickTest  was Skipped---->
+17:31:40.931 [TestNG-tests-1] WARN  com.apcoworldwide.qa.base.TestBase - <----verifyBreadcrumbsInternAdvTest  was Skipped---->
+17:31:44.089 [TestNG-tests-1] WARN  com.apcoworldwide.qa.base.TestBase - <----verifyFullIACTest  was Skipped---->
+17:31:46.990 [TestNG-tests-1] WARN  com.apcoworldwide.qa.base.TestBase - <----verifyInternAdvTitleTest  was Skipped---->
+17:31:49.703 [TestNG-tests-1] WARN  com.apcoworldwide.qa.base.TestBase - <----verifyLogoTest  was Skipped---->
+17:31:52.622 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Trying to click on: [[ChromeDriver: chrome on XP (1d8afc13c2c65adef8f6a23a53f8b673)] -> id: menu-item-109]
+17:32:04.513 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Clicked on: [[ChromeDriver: chrome on XP (1d8afc13c2c65adef8f6a23a53f8b673)] -> id: menu-item-109]
+17:32:04.517 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - <----verifyLogoTest  is Started---->
+17:32:04.682 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - <----verifyLogoTest  was Passed---->
+17:32:55.737 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Trying to click on: [[ChromeDriver: chrome on XP (f20eececaea25e74777883464abf1d0c)] -> xpath: //a[@id='cookie_action_close_header']]
+17:32:56.421 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Clicked on: [[ChromeDriver: chrome on XP (f20eececaea25e74777883464abf1d0c)] -> xpath: //a[@id='cookie_action_close_header']]
+17:32:56.873 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Trying to click on: [[ChromeDriver: chrome on XP (f20eececaea25e74777883464abf1d0c)] -> id: menu-item-109]
+17:33:04.405 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Clicked on: [[ChromeDriver: chrome on XP (f20eececaea25e74777883464abf1d0c)] -> id: menu-item-109]
+17:33:04.409 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - <----verifytermsAndConPageTitleTest  is Started---->
+17:33:04.498 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - <----verifytermsAndConPageTitleTest  was Passed---->
+17:33:45.755 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Trying to click on: [[ChromeDriver: chrome on XP (87fdce6ef05c77ceae694f0e91766f7c)] -> xpath: //a[@id='cookie_action_close_header']]
+17:33:46.747 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Clicked on: [[ChromeDriver: chrome on XP (87fdce6ef05c77ceae694f0e91766f7c)] -> xpath: //a[@id='cookie_action_close_header']]
+17:33:46.757 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - <----AboutSubMenuAwardsDownTest  is Started---->
+17:33:46.890 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Trying to click on: [[ChromeDriver: chrome on XP (87fdce6ef05c77ceae694f0e91766f7c)] -> id: menu-item-96]
+17:33:55.496 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Clicked on: [[ChromeDriver: chrome on XP (87fdce6ef05c77ceae694f0e91766f7c)] -> id: menu-item-96]
+17:33:55.668 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - <----AboutSubMenuAwardsDownTest  was Passed---->
+17:34:37.010 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Trying to click on: [[ChromeDriver: chrome on XP (cc5f3785d1a0d2f9af39ea36c0b40ed3)] -> xpath: //a[@id='cookie_action_close_header']]
+17:34:37.890 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Clicked on: [[ChromeDriver: chrome on XP (cc5f3785d1a0d2f9af39ea36c0b40ed3)] -> xpath: //a[@id='cookie_action_close_header']]
+17:34:37.898 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - <----AboutSubMenuAwardsTest  is Started---->
+17:34:37.902 [TestNG-tests-1] ERROR com.apcoworldwide.qa.base.TestBase - Exception occured: org.openqa.selenium.UnsupportedCommandException: actions
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TASOSSS-PC', ip: '192.168.10.80', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: driver.version: EventFiringWebDriver
+17:34:41.982 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Trying to click on: [[ChromeDriver: chrome on XP (cc5f3785d1a0d2f9af39ea36c0b40ed3)] -> id: menu-item-123]
+17:34:49.958 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Clicked on: [[ChromeDriver: chrome on XP (cc5f3785d1a0d2f9af39ea36c0b40ed3)] -> id: menu-item-123]
+17:34:50.029 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - <----AboutSubMenuAwardsTest  was Passed---->
+17:35:42.348 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Trying to click on: [[ChromeDriver: chrome on XP (08b46319933051998e4ecba29b77f11e)] -> xpath: //a[@id='cookie_action_close_header']]
+17:35:43.139 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Clicked on: [[ChromeDriver: chrome on XP (08b46319933051998e4ecba29b77f11e)] -> xpath: //a[@id='cookie_action_close_header']]
+17:35:43.148 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - <----AboutSubMenuCareersDownTest  is Started---->
+17:35:43.411 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Trying to click on: [[ChromeDriver: chrome on XP (08b46319933051998e4ecba29b77f11e)] -> id: menu-item-97]
+17:35:53.646 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Clicked on: [[ChromeDriver: chrome on XP (08b46319933051998e4ecba29b77f11e)] -> id: menu-item-97]
+17:35:53.683 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - <----AboutSubMenuCareersDownTest  was Passed---->
+17:36:39.778 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Trying to click on: [[ChromeDriver: chrome on XP (28a6db306456e6fdd7d7c6f94c2e8371)] -> xpath: //a[@id='cookie_action_close_header']]
+17:36:40.811 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Clicked on: [[ChromeDriver: chrome on XP (28a6db306456e6fdd7d7c6f94c2e8371)] -> xpath: //a[@id='cookie_action_close_header']]
+17:36:40.818 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - <----AboutSubMenuCareersTest  is Started---->
+17:36:40.825 [TestNG-tests-1] ERROR com.apcoworldwide.qa.base.TestBase - Exception occured: org.openqa.selenium.UnsupportedCommandException: actions
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TASOSSS-PC', ip: '192.168.10.80', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: driver.version: EventFiringWebDriver
+17:36:44.897 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Trying to click on: [[ChromeDriver: chrome on XP (28a6db306456e6fdd7d7c6f94c2e8371)] -> id: menu-item-122]
+17:36:52.701 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Clicked on: [[ChromeDriver: chrome on XP (28a6db306456e6fdd7d7c6f94c2e8371)] -> id: menu-item-122]
+17:36:52.763 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - <----AboutSubMenuCareersTest  was Passed---->
+17:37:36.244 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Trying to click on: [[ChromeDriver: chrome on XP (d206fc1b02730421cc1d357767b39698)] -> xpath: //a[@id='cookie_action_close_header']]
+17:37:39.293 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Clicked on: [[ChromeDriver: chrome on XP (d206fc1b02730421cc1d357767b39698)] -> xpath: //a[@id='cookie_action_close_header']]
+17:37:39.298 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - <----AboutSubMenuInterAdvCouncilClickTest  is Started---->
+17:37:39.302 [TestNG-tests-1] ERROR com.apcoworldwide.qa.base.TestBase - Exception occured: org.openqa.selenium.UnsupportedCommandException: actions
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TASOSSS-PC', ip: '192.168.10.80', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: driver.version: EventFiringWebDriver
+17:37:48.239 [TestNG-tests-1] ERROR com.apcoworldwide.qa.base.TestBase - Exception occured: org.openqa.selenium.UnsupportedCommandException: actions
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TASOSSS-PC', ip: '192.168.10.80', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: driver.version: EventFiringWebDriver
+17:38:06.052 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Trying to click on: [[ChromeDriver: chrome on XP (d206fc1b02730421cc1d357767b39698)] -> id: menu-item-4779]
+17:38:41.430 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - Clicked on: [[ChromeDriver: chrome on XP (d206fc1b02730421cc1d357767b39698)] -> id: menu-item-4779]
+17:38:41.763 [TestNG-tests-1] INFO  com.apcoworldwide.qa.base.TestBase - <----AboutSubMenuInterAdvCouncilClickTest  was Passed---->
+17:39:58.319 [TestNG-tests-1] ERROR com.apcoworldwide.qa.base.TestBase - Exception occured: org.openqa.selenium.TimeoutException: timeout
+  (Session info: chrome=73.0.3683.103)
+  (Driver info: chromedriver=73.0.3683.68 (47787ec04b6e38e22703e856e101e840b65afe72),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TASOSSS-PC', ip: '192.168.10.80', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 73.0.3683.68 (47787ec04b6e3..., userDataDir: C:\Users\TaSoSsS\AppData\Lo...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:63719}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.103, webStorageEnabled: true}
+Session ID: 2be4bf8b906cb2ac8efdb68b6cd72ca8
+17:40:58.404 [TestNG-tests-1] ERROR com.apcoworldwide.qa.base.TestBase - Exception occured: org.openqa.selenium.TimeoutException: timeout
+  (Session info: chrome=73.0.3683.103)
+  (Driver info: chromedriver=73.0.3683.68 (47787ec04b6e38e22703e856e101e840b65afe72),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TASOSSS-PC', ip: '192.168.10.80', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 73.0.3683.68 (47787ec04b6e3..., userDataDir: C:\Users\TaSoSsS\AppData\Lo...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:63719}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.103, webStorageEnabled: true}
+Session ID: 2be4bf8b906cb2ac8efdb68b6cd72ca8
+17:41:58.420 [TestNG-tests-1] ERROR com.apcoworldwide.qa.base.TestBase - Exception occured: org.openqa.selenium.TimeoutException: timeout
+  (Session info: chrome=73.0.3683.103)
+  (Driver info: chromedriver=73.0.3683.68 (47787ec04b6e38e22703e856e101e840b65afe72),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TASOSSS-PC', ip: '192.168.10.80', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 73.0.3683.68 (47787ec04b6e3..., userDataDir: C:\Users\TaSoSsS\AppData\Lo...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:63719}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.103, webStorageEnabled: true}
+Session ID: 2be4bf8b906cb2ac8efdb68b6cd72ca8
+17:42:58.436 [TestNG-tests-1] ERROR com.apcoworldwide.qa.base.TestBase - Exception occured: org.openqa.selenium.TimeoutException: timeout
+  (Session info: chrome=73.0.3683.103)
+  (Driver info: chromedriver=73.0.3683.68 (47787ec04b6e38e22703e856e101e840b65afe72),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TASOSSS-PC', ip: '192.168.10.80', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 73.0.3683.68 (47787ec04b6e3..., userDataDir: C:\Users\TaSoSsS\AppData\Lo...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:63719}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.103, webStorageEnabled: true}
+Session ID: 2be4bf8b906cb2ac8efdb68b6cd72ca8
+17:43:58.450 [TestNG-tests-1] ERROR com.apcoworldwide.qa.base.TestBase - Exception occured: org.openqa.selenium.TimeoutException: timeout
+  (Session info: chrome=73.0.3683.103)
+  (Driver info: chromedriver=73.0.3683.68 (47787ec04b6e38e22703e856e101e840b65afe72),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TASOSSS-PC', ip: '192.168.10.80', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 73.0.3683.68 (47787ec04b6e3..., userDataDir: C:\Users\TaSoSsS\AppData\Lo...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:63719}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.103, webStorageEnabled: true}
+Session ID: 2be4bf8b906cb2ac8efdb68b6cd72ca8
+17:44:59.011 [TestNG-tests-1] ERROR com.apcoworldwide.qa.base.TestBase - Exception occured: org.openqa.selenium.TimeoutException: timeout
+  (Session info: chrome=73.0.3683.103)
+  (Driver info: chromedriver=73.0.3683.68 (47787ec04b6e38e22703e856e101e840b65afe72),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TASOSSS-PC', ip: '192.168.10.80', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 73.0.3683.68 (47787ec04b6e3..., userDataDir: C:\Users\TaSoSsS\AppData\Lo...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:63719}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.103, webStorageEnabled: true}
+Session ID: 2be4bf8b906cb2ac8efdb68b6cd72ca8
+18:02:13.723 [main] INFO  com.apcoworldwide.qa.base.TestBase - Trying to click on: [[ChromeDriver: chrome on XP (4a58f8bcbaa71b033eab1e7e0e6594bd)] -> xpath: //a[@id='cookie_action_close_header']]
+18:02:14.449 [main] INFO  com.apcoworldwide.qa.base.TestBase - Clicked on: [[ChromeDriver: chrome on XP (4a58f8bcbaa71b033eab1e7e0e6594bd)] -> xpath: //a[@id='cookie_action_close_header']]
+18:02:15.990 [main] INFO  com.apcoworldwide.qa.base.TestBase - Trying to click on: [[ChromeDriver: chrome on XP (4a58f8bcbaa71b033eab1e7e0e6594bd)] -> xpath: //div[contains(@style,'Imad-AI')]]
+18:02:18.132 [main] INFO  com.apcoworldwide.qa.base.TestBase - Clicked on: [[ChromeDriver: chrome on XP (4a58f8bcbaa71b033eab1e7e0e6594bd)] -> xpath: //div[contains(@style,'Imad-AI')]]
+18:02:33.306 [main] ERROR com.apcoworldwide.qa.base.TestBase - The AI AND THE RISE OF A NEW GENERATION video isn't working
+18:05:23.834 [main] INFO  com.apcoworldwide.qa.base.TestBase - Trying to click on: [[ChromeDriver: chrome on XP (291a8054525bb5107883573f4fce740e)] -> xpath: //a[@id='cookie_action_close_header']]
+18:05:24.634 [main] INFO  com.apcoworldwide.qa.base.TestBase - Clicked on: [[ChromeDriver: chrome on XP (291a8054525bb5107883573f4fce740e)] -> xpath: //a[@id='cookie_action_close_header']]
+18:05:25.088 [main] ERROR com.apcoworldwide.qa.base.TestBase - Exception occured: org.openqa.selenium.UnsupportedCommandException: actions
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TASOSSS-PC', ip: '192.168.10.80', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: driver.version: EventFiringWebDriver
+18:05:28.163 [main] ERROR com.apcoworldwide.qa.base.TestBase - Exception occured: org.openqa.selenium.UnsupportedCommandException: actions
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TASOSSS-PC', ip: '192.168.10.80', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: driver.version: EventFiringWebDriver
+18:05:31.004 [main] INFO  com.apcoworldwide.qa.base.TestBase - Trying to click on: [[ChromeDriver: chrome on XP (291a8054525bb5107883573f4fce740e)] -> id: menu-item-4779]
+18:05:44.231 [main] INFO  com.apcoworldwide.qa.base.TestBase - Clicked on: [[ChromeDriver: chrome on XP (291a8054525bb5107883573f4fce740e)] -> id: menu-item-4779]
+18:05:48.490 [main] ERROR com.apcoworldwide.qa.base.TestBase - Exception occured: org.openqa.selenium.UnsupportedCommandException: actions
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TASOSSS-PC', ip: '192.168.10.80', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: driver.version: EventFiringWebDriver
+18:05:52.641 [main] INFO  com.apcoworldwide.qa.base.TestBase - After hovering on people info the photo appears
